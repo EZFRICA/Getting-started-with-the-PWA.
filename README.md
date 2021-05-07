@@ -214,8 +214,6 @@ MicrosoftEdge/MSEdgeExplainers
 7 - Publish PWA on Google Play Store
 ====================================
 
-Web On Android
-
 ### Trusted Web Activities can be a bit tricky to set up, especially if all you want to do is display your website. This…
 
 [developers.google.com](https://developers.google.com/web/android/trusted-web-activity/quick-start)
