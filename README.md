@@ -326,9 +326,6 @@ Build Amazing Web App with PWA Tutorial from scratch
 \- Codelabs
 -----------
 
-Add more features to your Progressive Web App
----------------------------------------------
-
 [Add more features to your Progressive Web Apppwafire.org](https://pwafire.org/developer/codelabs/index.html)
 
 9 - A one year PWA retrospective
