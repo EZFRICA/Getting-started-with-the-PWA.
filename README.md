@@ -143,14 +143,12 @@ Creating PWA with Angular 5. Part 2: Progressifying the application
 ------------------------------------------------------
 
 Part 1
-------
 
 ### Progressive Web App + Angular + SEO = Awesome! Here's how
 
 [Read more](https://blog.bitsrc.io/building-a-search-engine-optimized-pwa-with-angular-part-1-237ec0dc888e)
 
 Part 2
-------
 
 ### How to build an SEO PWA with Angular and friends
 
@@ -208,7 +206,6 @@ PWA
 ================================================
 
 MicrosoftEdge/MSEdgeExplainers
-------------------------------
 
 ### PWAs hosted within a user agent (UA) frame are able to declare which browser display mode best meets the needs of the…
 
@@ -218,7 +215,6 @@ MicrosoftEdge/MSEdgeExplainers
 ====================================
 
 Web On Android
---------------
 
 ### Trusted Web Activities can be a bit tricky to set up, especially if all you want to do is display your website. This…
 
