@@ -67,9 +67,6 @@ Workbox | Google Developers
 \- VS Code Extension for PWA Tooling
 ------------------------------------
 
-PWA Tools
----------
-
 ### VS Code Extension for PWA Tools This extension for Visual Studio Code adds snippets and JSON schema for a manifest.json…
 
 [Read more](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
@@ -91,12 +88,9 @@ PWA Tools
 **\- Create a custom PWA with Workbox for a react application**
 ---------------------------------------------------------------
 
-How to build a custom PWA with Workbox in create-react-app
-----------------------------------------------------------
-
 ### Note: This is the third in a series of posts about PWAs inside of React. For a quick primer, see the previous two posts…
 
-[Read more](https://medium.com/free-code-camp/how-to-build-a-custom-pwa-with-workbox-in-create-react-app-be580686cf73)
+[How to build a custom PWA with Workbox in create-react-app](https://medium.com/free-code-camp/how-to-build-a-custom-pwa-with-workbox-in-create-react-app-be580686cf73)
 
 2 - PWABuilder
 ==============
@@ -120,15 +114,9 @@ New PWABuilder release!
 \- PWABuilder VSCode extension
 ------------------------------
 
-###PWABuilder
--------------
-
 ### The PWABuilder VSCode extension helps you transform any web app to a PWA, right inside of VSCode! This extension is in…
 
 [Read more](https://marketplace.visualstudio.com/items?itemName=PWABuilder.pwabuilder-extension)
-
-\- Build a PWA using PWABuilder
--------------------------------
 
 3 - Creating PWA with Angular
 =============================
